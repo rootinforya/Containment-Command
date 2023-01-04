@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainmentCommand", "ContainmentCommand.csproj", "{39251739-1C1A-424F-85A0-82500A92233C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39251739-1C1A-424F-85A0-82500A92233C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39251739-1C1A-424F-85A0-82500A92233C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39251739-1C1A-424F-85A0-82500A92233C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39251739-1C1A-424F-85A0-82500A92233C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {887BFC29-5368-40A3-A443-785DADDFCC4B}
+	EndGlobalSection
+EndGlobal
